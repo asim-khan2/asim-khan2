@@ -5,6 +5,12 @@
 
 - 🌱 I’m currently learning **Artificial Intelligent (ML DL)**
 
+- <h3 align="left">Achievements:</h3>
+<ul>
+  <li>Participated in multiple online contests to enhance problem-solving and programming skills.</li>
+  <li>Certificates for contests in **Data Structures and Algorithms (DSA)** and general programming.</li>
+</ul>
+
 - 📫 How to reach me **asimkhan106988@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
