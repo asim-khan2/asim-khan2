@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asim Khan</h1>
 <h3 align="center">A passionate Artificial Intelligent Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://d3g5ywftkpzr0e.cloudfront.net/wp-content/uploads/2023/07/13220529/Artificial-Intelligence-in-Indonesia-The-current-state-and-its-opportunities.jpeg">
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.qvhcmd-GbCm7CDbfUmF9LAHaE8?rs=1&pid=ImgDetMain">
 
 - 🌱 I’m currently learning **Artificial Intelligent (ML DL)**
 
