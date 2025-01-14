@@ -7,8 +7,8 @@
 
 - <h3 align="left">Achievements:</h3>
 <ul>
-  <li>Participated in multiple online contests to enhance problem-solving and programming skills.</li>
-  <li>Certificates for contests in **Data Structures and Algorithms (DSA)** and general programming.</li>
+  <li>Participated in an online **Python programming contest** organized by **IIT Bombay**, demonstrating problem-solving and coding expertise.</li>
+  <li>Completed an online course on **Data Structures and Algorithms (DSA)** by **Simplilearn**, gaining hands-on programming experience.</li>
 </ul>
 
 - 📫 How to reach me **asimkhan106988@gmail.com**
