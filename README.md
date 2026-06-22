@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Asim Khan 
+  Hi there, I'm Mohammad Asim 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -68,8 +68,11 @@
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 **Python Programming Contest** — Participated in the national-level online contest organized by **IIT Bombay**, demonstrating problem-solving and coding expertise
+- 🥇 **Machine Learning (NPTEL - IIT Kharagpur)** - Successfully completed the 8-week NPTEL certification covering the fundamentals of Machine Learning, including supervised learning, model evaluation, feature engineering, classification, regression, and practical ML concepts using Python.
+- 🥇 **Python Programming Contest (IIT Bombay)** — Participated in the national-level online contest organized by **IIT Bombay**, demonstrating problem-solving and coding expertise
 - 📜 **Data Structures & Algorithms** — Certified by **Simplilearn**, with hands-on programming experience
+- 🐙 **Git Training (IIT Bombay)**  
+Successfully completed Git Training offered by EduPyramids, SINE, IIT Bombay, achieving **86.67%** in the certification exam. Gained practical experience with Git version control, branching, merging, repositories, and collaborative software development workflows.
 
 <br/>
 
